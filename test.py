@@ -21,5 +21,5 @@ while True:
     elif userChoice is 3:
         print("His color is: " ,dog.color)
     else:
-        print("Thanks for messing with me...")
+        print("Take good care of your new puppy!")
         break
